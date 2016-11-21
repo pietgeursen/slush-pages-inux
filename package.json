@@ -1,0 +1,40 @@
+{
+  "name": "slush-pages-inux",
+  "version": "1.0.0",
+  "description": "a slush generator for static pages with inux using browserify",
+  "main": "slushfile.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pietgeursen/slush-pages-inux"
+  },
+  "keywords": [
+    "slush",
+    "slushgenerator",
+    "generator",
+    "scaffold",
+    "pages",
+    "static",
+    "gh-pages",
+    "ghpages",
+    "inu",
+    "inux"
+  ],
+  "author": "pietgeursen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pietgeursen/slush-pages-inux/issues"
+  },
+  "homepage": "https://github.com/pietgeursen/slush-pages-inux",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-conflict": "^0.4.0",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "inquirer": "^1.0.2",
+    "osi-licenses": "^0.1.1"
+  }
+}
